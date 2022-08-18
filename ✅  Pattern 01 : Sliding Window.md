@@ -504,7 +504,7 @@ lengthOfLongestSubstring("abccde", 1)//3, Replace the 'b' or 'd' with 'c' to hav
 - The above algorithms time complexity will be `O(N)`, where `N` is the number of letters in the input string.
 - As we expect only the lower case letters in the input string, we can conclude that the space complexity will be `O(26)` to store each letters frequency in the <b>HashMap</b>, which is asymptotically equal to `O(1)`.
 
-##https://www.youtube.com/watch?v=uUXXEgK2Jh8&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj&index=4
+## https://www.youtube.com/watch?v=uUXXEgK2Jh8&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj&index=4
 
 ## Longest Subarray with Ones after Replacement (hard)
 https://leetcode.com/problems/max-consecutive-ones-iii/
